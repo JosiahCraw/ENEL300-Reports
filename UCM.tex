@@ -1,0 +1,87 @@
+\documentclass{article}
+
+\usepackage[a4paper, total={6in, 9in}]{geometry}
+
+\title{UCM Guest Lecture Summary}
+\author{Jos Craw\\ 35046080}
+
+\begin{document}
+
+\maketitle{}
+
+The UCM team compete every year in the Formula SAE competition, this competition has each
+competing student team build and race a formula style car. At the beginning of UC's involvement
+the team competed in the petrol engine category where, on the final year that UC competed they
+placed third. The following year the UCM team switched to racing in the EV category. This switch
+was a result of the belief from the team that electric is the future and that the team should be
+attempting to learn the skills required to design and build an EV. The Formula SAE competition is
+judged in the five following categories.
+
+\begin{itemize}
+    \item{Acceleration}
+    \item{Skid Pad}
+    \item{One Lap around the track}
+    \item{Endurance}
+    \item{Efficiency}
+\end{itemize}
+
+When initially designing the car several design choices had to be made. The first of which was the
+type of drive train used, either four wheel drive or two wheel drive. The UCM team chose four
+wheel drive due to its better performance, grip and it's ability to incorporate regenerative
+breaking. The second  design choice was the which cells to use in the accumulator of the vehicle.
+The UCM team did a simulation to determine the best cell choice and the result was to use lithium
+polymer pouches. However, due to the difficulty in ensuring genuine batteries at the time this was
+not an available option. The next option was to use Samsung lithium ion 18650 cells spot welded
+together. This option also did not work as the spot welding was not reliable. The option that was
+used was ultrasonically coupled lithium ion 18650.\\
+
+The next category of the car that was discussed was the HV front end. The first component of which
+is the inverter, due to the workings of inverter it has high input capacitance. This high input
+capacitance necessitates the next component, the pre charge circuit. The pre charge circuit uses a
+resistor to charge the inverter before opening the circuit across the inverter. The next topic was
+the battery improvement from 2018 to 2019, the UCM team will be changing the current 8 parallel
+setup to 7 parallel. This upgrade was as the 8 parallel was too hot at nominal voltage the upgrade
+also saved weight and increased voltage.\\
+
+The next topic discussed was the critical PCB's which are listed below.
+
+\begin{enumerate}
+    \item{Isolation board}
+    \item{Fault latch circuit}
+    \begin{itemize}
+        \item{Analog}
+        \item{If main the main control system fails or a fault occurs this circuit will shut the system down}
+    \end{itemize}
+    \item{Can bus interface}
+    \begin{itemize}
+        \item{Eliminates/reduces noise for analog communication}
+    \end{itemize}
+    \item{Discharge circuit}
+    \begin{itemize}
+        \item{Contains high speed communication}
+        \item{Discharges from the high voltage circuit}
+    \end{itemize}
+    \item{Vehicle control unit (VCU)}
+    \begin{itemize}
+        \item{Contains traction control}
+        \item{Contains torque vectoring control}
+        \item{Contains cooling control}
+    \end{itemize}
+\end{enumerate}
+
+The final topic covered in the technical section was the future of the UCM design. There are three
+major improvements that the UCM team is attempting to integrate.
+
+\begin{itemize}
+    \item{Use a self developed silicon carbide MOSFET instead of the current IGBT for improved
+        efficiency}
+    \item{Use lithium polymer pouch as the technology is now more reliable}
+    \item{And to develop driver less technology as this will be a requirement by 2020}
+\end{itemize}
+
+The final section of the lecture was covering the way contributing to UCM can help students after
+graduation. This section covered how UCM shows potential employers that a student has practical
+experience and team working skills that are highly valued in the professional space. 
+
+\end{document}
+
