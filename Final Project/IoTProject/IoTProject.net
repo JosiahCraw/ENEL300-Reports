@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "/home/joscraw/ENEL300/Final Project/IoTProject/IoTProject.sch")
-    (date "Mon 30 Sep 2019 11:09:35 AM NZDT")
+    (date "Sat 05 Oct 2019 11:55:15 AM NZDT")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu18.10.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref IC1)
       (value STM32WB55CEU6)
-      (footprint Package_DFN_QFN:QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm)
+      (footprint STM32WB55CEU6:QFN50P700X700X65-49N-D)
       (datasheet https://componentsearchengine.com/Datasheets/1/STM32WB55CEU6.pdf)
       (fields
         (field (name Description) "STMICROELECTRONICS - STM32WB55CEU6 - MCU, 32BIT, 64MHZ")
@@ -28,7 +28,7 @@
         (field (name "Mouser Price/Stock") https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32WB55CEU6))
       (libsource (lib STM32WB55CEU6) (part STM32WB55CEU6) (description "STMICROELECTRONICS - STM32WB55CEU6 - MCU, 32BIT, 64MHZ"))
       (sheetpath (names /) (tstamps /))
-      (tstamp 5D912A3F)))
+      (tstamp 5D97CEBE)))
   (libparts
     (libpart (lib STM32WB55CEU6) (part STM32WB55CEU6)
       (description "STMICROELECTRONICS - STM32WB55CEU6 - MCU, 32BIT, 64MHZ")
