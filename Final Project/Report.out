@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Requirements}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{RF Connectivity}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Zigbee vs WiFi vs Bluetooth Low Energy}{subsection.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Data Collection}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Power Consumption}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Hardware}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Processor}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Temperature Sensor}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Power Delivery}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Modules}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Data Collection Board}{subsection.3.4}% 12
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Battery Expansion Board}{subsection.3.4}% 13
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Base Station Expansion Board}{subsection.3.4}% 14
+\BOOKMARK [1][-]{section.4}{Firmware}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Node}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Base Station}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Cloud System}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{Amazon FreeRTOS}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.2}{Data Management and Security}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.3}{Over the Air updates \(OTA\)}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.4}{Data Analysis and Big data applications}{section.5}% 22
+\BOOKMARK [1][-]{section.6}{Sustainability}{}% 23
+\BOOKMARK [1][-]{section.7}{Future Expansion}{}% 24
+\BOOKMARK [2][-]{subsection.7.1}{Humidity Sensors}{section.7}% 25
+\BOOKMARK [2][-]{subsection.7.2}{Power Efficiency increases}{section.7}% 26
+\BOOKMARK [2][-]{subsection.7.3}{Modular Expansion}{section.7}% 27
+\BOOKMARK [2][-]{subsection.7.4}{System API and existing system integration}{section.7}% 28
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 29
+\BOOKMARK [1][-]{section*.3}{Appendices}{}% 30
+\BOOKMARK [1][-]{Appendix.1.A}{BOM}{}% 31

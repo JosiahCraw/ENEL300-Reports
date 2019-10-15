@@ -1,26 +1,31 @@
-\contentsline {section}{\numberline {1}Introduction}{4}% 
-\contentsline {section}{\numberline {2}Requirements}{4}% 
-\contentsline {subsection}{\numberline {2.1}RF Connectivity}{4}% 
-\contentsline {subsubsection}{\numberline {2.1.1}Zigbee vs WiFi vs Bluetooth Low Energy}{4}% 
-\contentsline {subsection}{\numberline {2.2}Data Collection}{4}% 
-\contentsline {subsection}{\numberline {2.3}Power Use}{4}% 
-\contentsline {section}{\numberline {3}Hardware}{5}% 
-\contentsline {subsection}{\numberline {3.1}Processor}{5}% 
-\contentsline {subsection}{\numberline {3.2}Temperature Sensor}{5}% 
-\contentsline {subsection}{\numberline {3.3}Power Delivery}{5}% 
-\contentsline {subsection}{\numberline {3.4}Modules}{5}% 
-\contentsline {subsubsection}{\numberline {3.4.1}Data Collection Board}{5}% 
-\contentsline {subsubsection}{\numberline {3.4.2}Battery Expansion Board}{5}% 
-\contentsline {subsubsection}{\numberline {3.4.3}Base Station Expansion Board}{5}% 
-\contentsline {subsection}{\numberline {3.5}Base Station}{6}% 
-\contentsline {section}{\numberline {4}Firmware}{6}% 
-\contentsline {subsection}{\numberline {4.1}Node}{6}% 
-\contentsline {subsection}{\numberline {4.2}Base Station}{7}% 
-\contentsline {section}{\numberline {5}Cloud System}{7}% 
-\contentsline {subsection}{\numberline {5.1}Amazon FreeRTOS}{7}% 
-\contentsline {subsection}{\numberline {5.2}Data Management and Security}{8}% 
-\contentsline {subsection}{\numberline {5.3}Over the Air updates (OTA)}{8}% 
-\contentsline {subsection}{\numberline {5.4}Data Analysis and Big data applications}{8}% 
-\contentsline {section}{\numberline {6}Future Expansion}{8}% 
-\contentsline {subsection}{\numberline {6.1}Humidity Sensors}{8}% 
-\contentsline {subsection}{\numberline {6.2}System API and existing system integration}{8}% 
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}% 
+\contentsline {section}{\numberline {2}Requirements}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}RF Connectivity}{4}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Zigbee vs WiFi vs Bluetooth Low Energy}{4}{subsubsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.2}Data Collection}{5}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Power Consumption}{5}{subsection.2.3}% 
+\contentsline {section}{\numberline {3}Hardware}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Processor}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Temperature Sensor}{6}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Power Delivery}{6}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Modules}{6}{subsection.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.1}Data Collection Board}{6}{subsubsection.3.4.1}% 
+\contentsline {subsubsection}{\numberline {3.4.2}Battery Expansion Board}{10}{subsubsection.3.4.2}% 
+\contentsline {subsubsection}{\numberline {3.4.3}Base Station Expansion Board}{10}{subsubsection.3.4.3}% 
+\contentsline {section}{\numberline {4}Firmware}{12}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Node}{12}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Base Station}{13}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}Cloud System}{14}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Amazon FreeRTOS}{14}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Data Management and Security}{15}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Over the Air updates (OTA)}{15}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5.4}Data Analysis and Big data applications}{15}{subsection.5.4}% 
+\contentsline {section}{\numberline {6}Sustainability}{16}{section.6}% 
+\contentsline {section}{\numberline {7}Future Expansion}{16}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Humidity Sensors}{16}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Power Efficiency increases}{16}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7.3}Modular Expansion}{16}{subsection.7.3}% 
+\contentsline {subsection}{\numberline {7.4}System API and existing system integration}{16}{subsection.7.4}% 
+\contentsline {section}{\numberline {8}Conclusion}{17}{section.8}% 
+\contentsline {section}{Appendices}{18}{section*.3}% 
+\contentsline {section}{\numberline {A}BOM}{18}{Appendix.1.A}% 
